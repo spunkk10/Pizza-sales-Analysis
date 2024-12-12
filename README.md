@@ -49,7 +49,7 @@ Q13)Determine the top 3 most ordered pizza types based on revenue for each pizza
 Each of these queries contributed to a comprehensive analysis, providing valuable insights to drive strategic decisions.
 
 
-** Key Insights:**
+**Key Insights:**
 
 1)XXL pizzas underperformed with just 28 orders, suggesting discontinuation.
 2)The "Classic" pizza category is the top choice among customers, showing strong preference.
