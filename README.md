@@ -49,4 +49,13 @@ Q13)Determine the top 3 most ordered pizza types based on revenue for each pizza
 Each of these queries contributed to a comprehensive analysis, providing valuable insights to drive strategic decisions.
 
 
+** Key Insights:**
+
+1)XXL pizzas underperformed with just 28 orders, suggesting discontinuation.
+2)The "Classic" pizza category is the top choice among customers, showing strong preference.
+3)Peak sales occur after 11 PM, while the 9–11 AM window shows minimal activity.
+4)The Chicken pizza category has limited variety (6 types), creating untapped growth potential.
+5)An average of 138 pizzas per order highlights the need for promotions to boost this figure.
+
+
 
